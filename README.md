@@ -1,3 +1,3 @@
 Travel Distinations
 
-A simple app to keep track of destinations I'd like to visit.
+all the places i want to go.
